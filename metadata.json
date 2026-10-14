@@ -1,0 +1,6 @@
+{
+  "name": "HuáYǔ HSK Master - Aprende Chino Mandarín",
+  "description": "Plataforma interactiva para aprender chino mandarín desde cero con currículo HSK 1 a HSK 6, fonética para hispanohablantes, audio nativo, flashcards y certificación oficial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
